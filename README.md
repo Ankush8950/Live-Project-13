@@ -16,6 +16,6 @@
 ---
 ## 🚀  Project Live Link <br>
 ---
-This project is been hosted on netlify. [Live Project Link]()
+This project is been hosted on netlify. [Live Project Link](https://fanciful-wisp-029569.netlify.app/)
 
-![Business web page](/saas.png)
+![Saas web page](/saas.png)
